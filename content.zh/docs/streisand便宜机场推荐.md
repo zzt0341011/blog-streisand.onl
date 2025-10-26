@@ -106,7 +106,7 @@
 - 价格：37元，200G，不限制时间
 - v2rayN节点延时测试，延时还是很不错的
 
-![皮卡丘.jpg](https://shadowrocket.ink/img/皮卡丘1.jpg)
+![皮卡丘.jpg](https://shadowrocket.ink/img/皮卡丘.jpg)
 
 - youtube视频16k测试
 - 可以看到，使用香港节点，16k视频跑满19万，速度非常快
@@ -155,11 +155,11 @@
 - 官方网站：[点击打开超市惠机场](https://cshjc.shop/register?code=GadIbTHc)
 - 主打套餐：34元/666G，不限制时间
 
-![streisand-10016.jpg](../../../_resources/streisand-10016.jpg)
+![streisand-10016.jpg](../../../_resources/streisand-10016-1.jpg)
 
 - youtube视频测试，晚高峰跑一万左右，16k毫无压力
 
-![streisand-10017.jpg](../../../_resources/streisand-10017.jpg)
+![streisand-10017.jpg](../../../_resources/streisand-10017-1.jpg)
 
 ## 九、宝贝云
 

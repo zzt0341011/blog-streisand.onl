@@ -109,5 +109,5 @@ After opening the app, go to the **Home** page, tap **Routing**, select **Bypass
 
 ---
 
-- Streisand Free Node Sharing  
-- Recommended Affordable Streisand Proxy Providers
+- [streisand free proxy server](https://streisand.onl/docs/streisand-free-proxy-server/)  
+- [streisand cheap proxy server purchase](https://streisand.onl/docs/streisand-cheap-proxy-server-purchase/)
