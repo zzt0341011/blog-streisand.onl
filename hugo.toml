@@ -36,15 +36,6 @@ enableGitInfo = true
   contentDir = 'content.zh'
   weight = 3
 
-[languages.hi]
-  languageName = 'Hindi'
-  contentDir = 'content.hi'
-  weight = 4
-
-[languages.fa]
-  languageName = 'Persian'
-  contentDir = 'content.fa'
-  weight = 4
 
 [menu]
 # [[menu.before]]
