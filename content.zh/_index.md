@@ -112,5 +112,5 @@ https://appstore.autos/share/EzhGxYWHQO/
 ![streisand-10018.jpg](https://streisand.onl/img/streisand-10018.jpg)
 
 
-- streisand免费节点分享
-- streisand便宜机场推荐
+- [streisand免费节点分享](https://streisand.onl/zh/docs/streisand%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)
+- [streisand便宜机场推荐](https://streisand.onl/zh/docs/streisand%E4%BE%BF%E5%AE%9C%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/)
