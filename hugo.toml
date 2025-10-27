@@ -38,13 +38,13 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "8元200G不限时"
-  url = "https://jsjc.cfd/#/register?code=w7rsHzIL"
+  name = "chatgpt"
+  url = "https://chatgpt-apk.app"
   weight = 20
 
 # [[menu.after]]
-#  name = "Hugo Themes"
-#  url = "https://themes.gohugo.io/themes/hugo-book/"
+#  name = "8元200G不限时"
+#  url = "https://jsjc.cfd/#/register?code=w7rsHzIL"
 #  weight = 20
 
 [params]
