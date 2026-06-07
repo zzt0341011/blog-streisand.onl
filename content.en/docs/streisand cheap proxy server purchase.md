@@ -8,19 +8,16 @@ Today, I’ve compiled a list of affordable and reliable proxy providers that wo
 * The following providers charge based on data usage and include tutorials on their websites for software installation and configuration.
 * Once you purchase data, there’s **no time limit** — your plan lasts until all data is used.
 
-| Name                                                                  | Price | Data   | Nodes |
-| :-------------------------------------------------------------------- | :---- | :----- | :---- |
-| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                      | ¥1    | 2 GB   | 48    |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                 | ¥4.5  | 10 GB  | 42    |
-| [InterExpress](https://wjkc66.vip?c=REZUOC)                           | ¥7    | 20 GB  | 54    |
-| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)        | ¥12   | 100 GB | 40    |
-| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)               | ¥13   | 200 GB | 41    |
-| [Nongfu Spring](https://07.nfsq.us/#/register?code=i1fXTMYk)          | ¥15   | 200 GB | 32    |
-| [Feitu](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | ¥30   | 100 GB | 80    |
-| [Super Saver](https://web1.bby011.com/#/register?code=8xTTMr2f)       | ¥34   | 666 GB | 40    |
-| [Baobei Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)      | ¥55   | 600 GB | 64    |
-| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)            | ¥68   | 512 GB | 46    |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)             | ¥98   | 280 GB | 140   |
+| Name | Price | Traffic | Nodes |
+| :--- | :--- | :--- | :--- |
+| [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
+| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
+| [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
 
 * Contact: **[leeulen60@gmail.com](mailto:leeulen60@gmail.com)**
 
