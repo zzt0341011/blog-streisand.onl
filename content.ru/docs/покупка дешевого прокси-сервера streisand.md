@@ -9,19 +9,16 @@
 * На их сайтах есть инструкции по установке и использованию.
 * После покупки трафика время не ограничено — действует, пока не закончится объём.
 
-| Название                                                                      | Цена     | Трафик | Кол-во узлов |
-| :---------------------------------------------------------------------------- | :------- | :----- | :----------- |
-| [Магическое Кольцо (Моджэ)](https://mojie.kim/register?aff=BpCuERz0)          | 1 юань   | 2 ГБ   | 48           |
-| [Пикачу](https://pkhub.net/#/register?code=A6O9EIj0)                          | 4.5 юаня | 10 ГБ  | 42           |
-| [Internet Express](https://wjkc66.vip?c=REZUOC)                               | 7 юаней  | 20 ГБ  | 54           |
-| [OneCent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)              | 12 юаней | 100 ГБ | 40           |
-| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 юаней | 200 ГБ | 41           |
-| [Nongfu Spring](https://07.nfsq.us/#/register?code=i1fXTMYk)                  | 15 юаней | 200 ГБ | 32           |
-| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 юаней | 100 ГБ | 80           |
-| [Super Cheap](https://web1.bby011.com/#/register?code=8xTTMr2f)               | 34 юаня  | 666 ГБ | 40           |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 юаней | 600 ГБ | 64           |
-| [Fast Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                      | 68 юаней | 512 ГБ | 46           |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 юаней | 280 ГБ | 140          |
+| Название | Цена | Трафик | Узлы |
+| :--- | :--- | :--- | :--- |
+| [Моцзе](https://1.jnk.ink/L4q20S) | 1 ¥ | 1 ГБ | 30 |
+| [Ванцзи Экспресс](https://wjkc66.vip?c=REZUOC) | 7 ¥ | 20 ГБ | 54 |
+| [Нюби](https://1.jnk.ink/LYet7x) | 14 ¥ | 200 ГБ | 31 |
+| [Фэйту](https://1.jnk.ink/bbXkiN) | 30 ¥ | 100 ГБ | 80 |
+| [Нунфу Спринг](https://1.jnk.ink/i1fXTMYk) | 45 ¥ | 200 ГБ | 40 |
+| [Баобэй Клауд](https://1.jnk.ink/xxPwfy) | 55 ¥ | 600 ГБ | 64 |
+| [Фридом Кэт](https://1.jnk.ink/haO8Dr) | 89 ¥ | 200 ГБ | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | 99 ¥ | 1000 ГБ | 82 |
 
 * [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 
