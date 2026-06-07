@@ -107,6 +107,17 @@ After opening the app, go to the **Home** page, tap **Routing**, select **Bypass
 
 ![streisand-10018.jpg](https://streisand.onl/img/streisand-10018.jpg)
 
+| Name | Price | Traffic | Nodes |
+| :--- | :--- | :--- | :--- |
+| [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
+| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
+| [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
+| [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
+
 ---
 
 - [streisand free proxy server](https://streisand.onl/docs/streisand-free-proxy-server/)  
