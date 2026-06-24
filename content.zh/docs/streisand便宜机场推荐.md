@@ -152,11 +152,11 @@
 - 官方网站：[点击打开超市惠机场](https://cshjc.shop/register?code=GadIbTHc)
 - 主打套餐：34元/666G，不限制时间
 
-![streisand-10016.jpg](../../../_resources/streisand-10016-1.jpg)
+![streisand-10016.jpg](https:/streisand.onl/img/streisand-10016.jpg)
 
 - youtube视频测试，晚高峰跑一万左右，16k毫无压力
 
-![streisand-10017.jpg](../../../_resources/streisand-10017-1.jpg)
+![streisand-10017.jpg](https:/streisand.onl/img/streisand-10017.jpg)
 
 ## 九、宝贝云
 
