@@ -163,11 +163,11 @@
 * Сайт: [Открыть Super Cheap](https://cshjc.shop/register?code=GadIbTHc)
 * Тариф: **34 юаня / 666 ГБ**, без ограничения по времени
 
-![streisand-10016.jpg](../../../_resources/streisand-10016-2.jpg)
+![streisand-10016.jpg](https://streisand.onl/img/streisand-10016.jpg)
 
 * Тест YouTube вечером: скорость до 10 000 Kbps, видео 16K без проблем.
 
-![streisand-10017.jpg](../../../_resources/streisand-10017-2.jpg)
+![streisand-10017.jpg](https://streisand.onl/img/streisand-10017.jpg)
 
 ---
 
