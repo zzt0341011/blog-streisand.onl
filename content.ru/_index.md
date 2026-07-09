@@ -17,12 +17,19 @@ type: docs
 * ⚠️ **Примечание:** Это *временные Apple ID*. После загрузки приложения обязательно **выйдите** из учетной записи.
 
 [https://www.lanhaiblog.com/post/3.html](https://www.lanhaiblog.com/post/3.html)
+
 [https://www.fengche666.net/doc/1642](https://www.fengche666.net/doc/1642)
+
 [https://wukongdy15.top](https://wukongdy15.top)
+
 [https://nnntk.com/share/id](https://nnntk.com/share/id)
+
 [https://nnntk.com/share/app](https://nnntk.com/share/app)
+
 [https://www.appstore.autos](https://www.appstore.autos)
+
 [https://id.ali-door.top/share/umoKGeJwOa](https://id.ali-door.top/share/umoKGeJwOa)
+
 [https://appstore.autos/share/EzhGxYWHQO/](https://appstore.autos/share/EzhGxYWHQO/)
 
 * Перейдите на любой из указанных сайтов, чтобы получить временный Apple ID.
@@ -47,7 +54,7 @@ type: docs
 
 * После установки **Streisand** нужно импортировать прокси-серверы, чтобы начать использовать приложение.
 * Ниже приведены шаги по покупке подписки и импорту прокси.
-* Перейдите на [официальный сайт InterExpress](https://快车.com/?c=REZUOC).
+* Перейдите на [официальный сайт InterExpress](https://1.jnk.ink/ad2RVl).
 
 ![streisand-1006.jpg](https://streisand.onl/img/streisand-1006.jpg)
 
@@ -110,7 +117,7 @@ type: docs
 | Название | Цена | Трафик | Узлы |
 | :--- | :--- | :--- | :--- |
 | [Моцзе](https://1.jnk.ink/L4q20S) | 1 ¥ | 1 ГБ | 30 |
-| [Ванцзи Экспресс](https://wjkc66.vip?c=REZUOC) | 7 ¥ | 20 ГБ | 54 |
+| [Ванцзи Экспресс](https://1.jnk.ink/ad2RVl) | 7 ¥ | 20 ГБ | 54 |
 | [Нюби](https://1.jnk.ink/LYet7x) | 14 ¥ | 200 ГБ | 31 |
 | [Фэйту](https://1.jnk.ink/bbXkiN) | 30 ¥ | 100 ГБ | 80 |
 | [Нунфу Спринг](https://1.jnk.ink/i1fXTMYk) | 45 ¥ | 200 ГБ | 40 |
