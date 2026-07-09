@@ -17,12 +17,19 @@ It supports multiple protocols, including: **VLESS (Reality)**, **VMess**, **Sha
 - ⚠️ **Note:** These are *temporary Apple IDs*. After downloading the app, make sure to **log out** of the account.
 
 https://www.lanhaiblog.com/post/3.html  
+
 https://www.fengche666.net/doc/1642  
+
 https://wukongdy15.top  
+
 https://nnntk.com/share/id  
+
 https://nnntk.com/share/app  
+
 https://www.appstore.autos  
+
 https://id.ali-door.top/share/umoKGeJwOa  
+
 https://appstore.autos/share/EzhGxYWHQO/
 
 - Visit any of the above sites to obtain a temporary US Apple ID.  
@@ -47,7 +54,7 @@ https://appstore.autos/share/EzhGxYWHQO/
 
 - After installing **Streisand**, you need to import proxy servers to use it.  
 - Below are the steps to purchase a subscription and import a proxy.  
-- Visit the [InterExpress official website](https://快车.com/?c=REZUOC).
+- Visit the [InterExpress official website](https://1.jnk.ink/ad2RVl).
 
 ![streisand-1006.jpg](https://streisand.onl/img/streisand-1006.jpg)
 
@@ -110,7 +117,7 @@ After opening the app, go to the **Home** page, tap **Routing**, select **Bypass
 | Name | Price | Traffic | Nodes |
 | :--- | :--- | :--- | :--- |
 | [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
-| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Wangji Express](https://1.jnk.ink/ad2RVl) | ¥7 | 20GB | 54 |
 | [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
 | [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
 | [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
