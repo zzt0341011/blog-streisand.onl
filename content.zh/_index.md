@@ -16,16 +16,25 @@ ipad，界面非常简洁，能突破网络限制，实现vpn功能，比如能�
 - 注意是临时苹果id，下载完软件以后，务必退出id
 
 https://www.lanhaiblog.com/post/3.html
+
 https://www.fengche666.net/doc/1642
+
 https://wukongdy15.top
+
 https://nnntk.com/share/id
+
 https://nnntk.com/share/app
+
 https://www.appstore.autos
+
 https://id.ali-door.top/share/umoKGeJwOa
+
 https://appstore.autos/share/EzhGxYWHQO/
+
 
 - 访问以上任意一个网址，获取临时美国苹果id
 - 复制账号密码，打开appstore，登录即
+
 ![streisand-1001.jpg](https://streisand.onl/img/streisand-1002.jpg)
 
 
@@ -41,13 +50,15 @@ https://appstore.autos/share/EzhGxYWHQO/
 
 - 如果想拥有自己的美国苹果id，可以[点击这里购买](https://appsir.shop/product/THPIpDr1RyVZ5w5l)
 
+
 ![streisand-1001.jpg](https://streisand.onl/img/streisand-1005.jpg)
+
 
 ## 2、购买订阅
 
 - **streisand**安装完以后，需要导入代理服务器才可以使用
 - 下面是购买订阅和导入代理服务器的流程
-- 点击访问[网际快车官网](https://快车.com/?c=REZUOC)
+- 点击访问[网际快车官网](https://1.jnk.ink/ad2RVl)
 
 ![streisand-1001.jpg](https://streisand.onl/img/streisand-1006.jpg)
 
