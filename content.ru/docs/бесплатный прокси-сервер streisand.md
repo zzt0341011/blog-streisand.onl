@@ -104,19 +104,12 @@ https://npvtunnel.dev/zh/docs/npvtunnel教程/苹果手机如何下载npvtunnel/
 Если какой-либо сервер перестал работать, просто попробуйте следующий.
 
 ```text
-socks://VDJjbE0wUWxNMFE2Og%3D%3D@121.169.46.116:1090#Южная-Корея
-socks://Og%3D%3D@121.169.46.116:1090#Южная-Корея
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#США
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#США
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.113:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none#Чехия
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.215:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none#Чехия
-trojan://humanity@104.18.12.149:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#OpenProxyList
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&allowInsecure=1&type=ws&host=pan3.global.ssl.fastly.net&path=%2F#Нидерланды
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#Гонконг
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#Гонконг
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#США
-socks://Og%3D%3D@121.169.46.116:1090#Южная-Корея
-socks://VDJjbE0wUWxNMFE2Og%3D%3D@121.169.46.116:1090#Южная-Корея
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@142.111.244.75:8443?sni=grape-power-pl.ddnsguru.com&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@172.245.233.237:8443?sni=hopp-us.yyuyy.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?sni=grape-zet-turbo-nl.yyuyy.com&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?sni=de-two.quiet-rogue.site&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&fp=ios&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 ```
 
 ---
