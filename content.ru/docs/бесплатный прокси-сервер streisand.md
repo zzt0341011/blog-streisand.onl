@@ -104,17 +104,17 @@ https://npvtunnel.dev/zh/docs/npvtunnel教程/苹果手机如何下载npvtunnel/
 Если какой-либо сервер перестал работать, просто попробуйте следующий.
 
 ```text
-vless://f1fa0ad9-b122-4b7c-da82-4bea9edc48dd@51.81.223.225:11094?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=9dnXiXxP4xgvtTVRj9SBFdyO6mjGvVhWD8qVZZLCCCk&sid=a356addf&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_542%7C217KB%2Fs%7CA004-260618%2001
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?sni=sg3.xiaoliyu.cyou&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_43%7C298KB%2Fs%7CA004-260618%2001
-socks://Og%3D%3D@69.55.49.177:38182#%F0%9F%87%BA%F0%9F%87%B8US_420%7C161KB%2Fs%7CR002-260618%2001
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?sni=els1.mangshe.xyz&insecure=1#%F0%9F%87%B7%F0%9F%87%BARU_10%7C312KB%2Fs%7CR002-260618%2001
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%BA%F0%9F%87%B8US_557%7C149KB%2Fs%7CA004-260618%2001
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@216.227.161.95:7443?encryption=none&security=reality&sni=media3.abvphelp.cc&fp=firefox&pbk=uNqGvaJEIFTFQvAxsTDhetPxkIWzJuBtxXsK0yFMYzM&sid=48d5cf47&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8US_460%7C65KB%2Fs%7CM002-260618%2001
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE_221%7C315KB%2Fs%7CA004-260618%2001
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org&insecure=0#%F0%9F%87%AC%F0%9F%87%B7GR_3%7C215KB%2Fs%7CA004-260618%2001
-vless://490a11eb-e38a-4a85-b391-7175de597b80@66.112.214.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=ExoLmgvra4OkUzW08_tkUKCOpqZ-fp-sur_NqpRui1s&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_770%7C309KB%2Fs%7CA004-260618%2001
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node21.mxvpn.dev&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR_814%7C202KB%2Fs%7CB007-260618%2001
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.170.35:443?sni=vpn-sg-001.fastervpn.world&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_290%7C301KB%2Fs%7CA004-260618%2001
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@nlb.webinarly.fun:443?encryption=none&security=tls&fp=chrome&type=grpc&authority=&serviceName=edge.sync.v1&mode=gun#vless-903912251
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?security=tls&sni=hk.catxstar.com&allowInsecure=1&type=tcp&headerType=none#trojan-863508654
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzLTg5MTkyODk3MiIsDQogICJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwNCiAgInBvcnQiOiAiMzc1MTUiLA0KICAiaWQiOiAiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.154:62145?encryption=none&security=none&type=tcp&headerType=none#vless-912900203
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?sni=grape-turbo-fr.roxa.org&insecure=1#hysteria2-896855669
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?encryption=none&security=none&fp=chrome&type=ws&host=itproxy3.lockdwn.com&path=%2F#vless-917661440
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.59.125.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#vless-896809779
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.229:8443?sni=hopp-legend-se.roxa.org&insecure=1#hysteria2-896855656
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@plb.webinarly.fun:443?encryption=none&security=tls&sni=plb.webinarly.fun&fp=chrome&type=grpc&authority=&serviceName=edge.sync.v1&mode=gun#vless-896855660
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=yahoo.com#vless-920421847
+vless://4005ddae-29bb-431e-a212-7737316d08ea@45.86.245.225:10444?encryption=none&security=none&fp=qq&type=ws&host=vpnpolar.online&path=%2Fbeeline#vless-890058988
 
 ```
 
