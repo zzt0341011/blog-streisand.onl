@@ -6,7 +6,7 @@ weight: 10
 bookFlatSection: false
 ---
 
-## 免费Streisand节点，最后更新时间2026-8-25
+## 免费Streisand节点，最后更新时间2026-9-11
 
 Streisand 是目前 iOS 上很好用的免费代理客户端，支持 VLESS、VMess、Trojan、Shadowsocks、Hysteria2 等主流协议，界面简洁，导入订阅也方便，是小火箭的平替选择。
 
@@ -32,17 +32,14 @@ Streisand 是目前 iOS 上很好用的免费代理客户端，支持 VLESS、VM
 下面是我整理的一些免费订阅，能用就用，挂了就换：
 
 ```
-vless://10000026-0216-6626-f000-da35b731a020@151.242.168.69:335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=onlineraceentry.co.uk&fp=qq&pbk=XJhq5Vpqo6j5Xsd56EMAK8--8EWBZWc3tjf-WFnInio&sid=ec2213ae33d5b43f&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%7C%20VLESS%20%7C%201017
-vless://10000025-9781-8800-f000-5faeabc7a020@151.242.168.69:335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=onlineraceentry.co.uk&fp=qq&pbk=XJhq5Vpqo6j5Xsd56EMAK8--8EWBZWc3tjf-WFnInio&sid=ec2213ae33d5b43f&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%7C%20VLESS%20%7C%201208
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&security=none&type=ws&path=%2F4bc027a44532#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201079
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?encryption=none&security=none&type=ws&path=%2F8f2690e2d016#Rose%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20709
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.76.4.128:5001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.aeternavpn.space&fp=qq&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&sid=a1b2c3d4&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20548
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Rose%20%7C%20%F0%9F%87%B0%F0%9F%87%BF%20KZ%20%7C%20VLESS%20%7C%201089
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201088
-vless://d2299018-601d-488e-afd6-8f55b3f7439f@151.101.56.7:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%204
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@investor.apple.com:443?encryption=none&security=tls&sni=o38nm.5nyl.4kp.hh.vavava.kdns.fr&type=ws&host=o38nm.5nyl.4kp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#vless-1100563228
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@columbia.edu:443?encryption=none&security=tls&sni=o38nm.5nyl.4kp.hh.vavava.kdns.fr&type=ws&host=o38nm.5nyl.4kp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#vless-1100563350
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@sg4-r.link-t7.com:10039?encryption=none&security=reality&sni=d1.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=update&mode=gun#vless-1081810435
+vless://cd9e00aa-3581-42e4-a35c-56ae3a521159@151.101.193.242:443?encryption=none&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=http%2F1.1&fp=chrome&type=ws&host=adheres-scruple.quick-cdn.net&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201834
+vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@adheres-scruple.quick-cdn.net:443?encryption=none&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=http%2F1.1&fp=chrome&type=ws&host=adheres-scruple.quick-cdn.net&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201951
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:8080?encryption=none&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F#Rose%20%7C%20VLESS%20%7C%201445
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:8880?encryption=none&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F#Rose%20%7C%20VLESS%20%7C%201442
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:80?encryption=none&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#Rose%20%7C%20VLESS%20%7C%201448
+vless://91c35e01-00bf-41f5-94e4-71539222d255@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&alpn=http%2F1.1&fp=chrome&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201068
+vless://cd9e00aa-3581-42e4-a35c-56ae3a521159@151.101.129.242:443?encryption=none&security=tls&sni=minimize-evenness.cdn-content.com&fp=chrome&type=ws&host=minimize-evenness.cdn-content.com&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201006
+vless://056d58b7-2577-4f82-b7a8-2473202419c2@199.232.173.242:443?encryption=none&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=adheres-scruple.quick-cdn.net&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201189
 ```
 
 **使用提醒：**
