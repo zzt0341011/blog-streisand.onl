@@ -12,7 +12,7 @@ keywords:
   - VPN для iOS
   - Бесплатные прокси
   - Streisand iOS
-date: 2026-08-03T02:50:00+03:00
+date: 2026-09-22 T02:50:00+03:00
 draft: false
 weight: 10
 bookFlatSection: false
@@ -104,14 +104,22 @@ https://npvtunnel.dev/zh/docs/npvtunnel教程/苹果手机如何下载npvtunnel/
 Если какой-либо сервер перестал работать, просто попробуйте следующий.
 
 ```text
-vless://cd9e00aa-3581-42e4-a35c-56ae3a521159@151.101.193.242:443?encryption=none&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=http%2F1.1&fp=chrome&type=ws&host=adheres-scruple.quick-cdn.net&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201834
-vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@adheres-scruple.quick-cdn.net:443?encryption=none&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=http%2F1.1&fp=chrome&type=ws&host=adheres-scruple.quick-cdn.net&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201951
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:8080?encryption=none&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F#Rose%20%7C%20VLESS%20%7C%201445
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:8880?encryption=none&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F#Rose%20%7C%20VLESS%20%7C%201442
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:80?encryption=none&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#Rose%20%7C%20VLESS%20%7C%201448
-vless://91c35e01-00bf-41f5-94e4-71539222d255@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&alpn=http%2F1.1&fp=chrome&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201068
-vless://cd9e00aa-3581-42e4-a35c-56ae3a521159@151.101.129.242:443?encryption=none&security=tls&sni=minimize-evenness.cdn-content.com&fp=chrome&type=ws&host=minimize-evenness.cdn-content.com&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201006
-vless://056d58b7-2577-4f82-b7a8-2473202419c2@199.232.173.242:443?encryption=none&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=adheres-scruple.quick-cdn.net&path=%2Fws#Rose%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%201189
+trojan://humanity@104.18.152.77:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com
+trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com
+vless://d4733e5a-5850-4523-942e-f28f82ebf4a9@www.speedtest.net:443?encryption=none&security=tls&sni=party-5cn.pages.dev&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%E4%B8%A8yoyapai.com
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=%2F#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.173:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%BAHU%E5%8C%88%E7%89%99%E5%88%A9%E4%B8%A8yoyapai.com
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.145:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%E4%B8%A8yoyapai.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=ws&host=newip.global.ssl.fastly.neT.&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&sid=d23753491eefde7e&type=tcp&headerType=none&host=www.nvidia.com#%F0%9F%87%B7%F0%9F%87%B4%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E4%B8%A8yoyapai.com
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.219:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB%E4%B8%A8yoyapai.com
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ%3D%3D@212.192.13.91:30129#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.217:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%E4%B8%A8yoyapai.com
 ```
 
 ---
